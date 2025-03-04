@@ -1,0 +1,6 @@
+-e .
+papermill
+matplotlib
+ipywidgets
+ipykernel
+jupyter_client>6
